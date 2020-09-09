@@ -1,0 +1,14 @@
+body {    
+    background-color:#AFEEEE;    
+    margin: 0px auto;    
+        
+    }    
+    .calbody{    
+     background: #483D8B;    
+     border: 1px solid #ff0;    
+     padding: 10px;    
+     margin-left: 450px;    
+     min-width: 27.4em;    
+     max-width: 27.4em;    
+         
+    }
